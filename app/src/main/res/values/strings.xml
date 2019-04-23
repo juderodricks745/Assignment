@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="capture_from_camera">Capture from Camera</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
+    <string name="lbl_top_wear">Click \'+\' to add Top Wear</string>
+    <string name="lbl_bottom_wear">Click \'+\' to add Bottom Wear</string>
+</resources>
